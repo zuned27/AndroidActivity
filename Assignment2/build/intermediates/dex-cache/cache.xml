@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vashishtmarhwal/.android/build-cache/2d7e83d83b02e53a81bb1e47947ca54bf34a572e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/vashishtmarhwal/AndroidStudioProjects/Assignment22/app/build/intermediates/pre-dexed/debug/classes_8d61bd5bec54d2d75df929a53896affac5a28111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vashishtmarhwal/.android/build-cache/8d58bef9e8079f71263fa5f1b36f8bc08b265798/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/vashishtmarhwal/AndroidStudioProjects/Assignment22/app/build/intermediates/pre-dexed/debug/classes_6bd023d5e548bc4ea6f55d6153a26fbe421fb0df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vashishtmarhwal/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/vashishtmarhwal/AndroidStudioProjects/Assignment22/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_e7a3ff279c81781a1c817895f96506f119c7c0af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vashishtmarhwal/.android/build-cache/59d1c236d64e45a851b44ac0ae9297717892f3bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vashishtmarhwal/AndroidStudioProjects/Assignment22/app/build/intermediates/pre-dexed/debug/classes_b095410ebd53f970c83948c9f0578a31b9ede4ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vashishtmarhwal/AndroidStudioProjects/Assignment22/app/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5b8c556427a60ed5f7f0abc415555de7bbba1ad">
+        <dex dex="/Users/vashishtmarhwal/AndroidStudioProjects/Assignment22/app/build/intermediates/pre-dexed/debug/org.apache.http.legacy_1b6076e719f0702d442b376e5e758dc82b08d50b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vashishtmarhwal/.android/build-cache/13e4120d218c409e4c4ef86d5bfb120097ae5be0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/vashishtmarhwal/AndroidStudioProjects/Assignment22/app/build/intermediates/pre-dexed/debug/classes_2adbf04ba0b53a49df887f24164f002287fb57d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vashishtmarhwal/.android/build-cache/aa114e7f9a9a0a6e0292b35191d03c0879562328/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/vashishtmarhwal/AndroidStudioProjects/Assignment22/app/build/intermediates/pre-dexed/debug/classes_a2d916f95696ec87f29e47d87db5cc4e215b0193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vashishtmarhwal/.android/build-cache/c03454010821986564f26ccc100624aa670653da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/vashishtmarhwal/AndroidStudioProjects/Assignment22/app/build/intermediates/pre-dexed/debug/classes_90834de3ab319f34753ba61153793a7c3bacc249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vashishtmarhwal/.android/build-cache/c4852896178207c7ec8d544fe84632d40abb43cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/vashishtmarhwal/AndroidStudioProjects/Assignment22/app/build/intermediates/pre-dexed/debug/classes_608adacbadeb0eb874903adba624aeb43c9d3f19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vashishtmarhwal/.android/build-cache/638359f7fca9b7958407e4e749ba1a1a1f5449bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/vashishtmarhwal/AndroidStudioProjects/Assignment22/app/build/intermediates/pre-dexed/debug/classes_d14c00c2ae24b143f60e890129a9e8e59b78ac80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vashishtmarhwal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/vashishtmarhwal/AndroidStudioProjects/Assignment22/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_0c5632b5edb40fef2063da84e4de6049a4c9df3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vashishtmarhwal/.android/build-cache/66da8e3e2cfeadd4ea144a757fb96613ff650ee4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/vashishtmarhwal/AndroidStudioProjects/Assignment22/app/build/intermediates/pre-dexed/debug/classes_a11cd74c32b4dcd0fd37c3cf84827a3b9365dc4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vashishtmarhwal/.android/build-cache/b912628635cf80a96cbb9e39772bd4bd793c4be1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/vashishtmarhwal/AndroidStudioProjects/Assignment22/app/build/intermediates/pre-dexed/debug/classes_04c6cecd3838ead3db819f55438c53a6df66aa6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vashishtmarhwal/.android/build-cache/9abe2868889b62f89bc3818b74ede890e00733fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/vashishtmarhwal/AndroidStudioProjects/Assignment22/app/build/intermediates/pre-dexed/debug/classes_015b82db68b986a4cf7009403c4d87cecd115fcd.jar" />
+    </item>
+
+</items>
